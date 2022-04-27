@@ -1,0 +1,33 @@
+
+                                                                              @@@@PROJETO DE CURSO PARA o R @@@@
+                                                                  
+                                                                          ALURA: Estatística com R: Introdução à modelagem
+
+
+___________________________________________________________________________________________________________________________________________________
+
+Neste projeto de curso, nós iremos trabalhar pra uma Startup de mobilidade urbana; e essa empresa quer !!!!!saber o que afeta a qualidade do ar nas cidades!!!!.
+
+ Por quê? A empresa quer criar novos serviços e ela precisa saber o que está acontecendo nessas cidades, que fatores  afetam a qualidade do ar, e onde ela pode atuar, oferecendo novos serviços.
+
+@ A pergunta a ser respondida é: O QUE AFETA A QUALIDADE DO AR NAS CIDADES?
+__________________________________________________________________________________________________________________________________________________
+
+@MÓDULOS:
+
+1 - Projeto e Banco de Dados;
+2 -  Modelos Estatísticos Simples;
+3 -  Gráficos do Modelo Estatístico;
+4 - Modelo de Regressão Múltipla;
+5 - Contraste de Modelos.
+
+___________________________________________________________________________________________________________________________________________________
+
+@@@ PROJETO E BANCO DE DADOS:
+
+# A primeira coisa a ser definida no Projeto, é o nosso objetivo! Ou, de modo similar, que pergunta nós queremos responder?
+Isso é importante, uma vez que nos fornece DIRECIONAMENTO E ALGO CONCRETO.
+
+# JAMAIS ANALISE OS DADOS SEM UM PLANEJAMENTO PRÉVIO;
+=> Um bom planejamento prévio nos permite evitar análises desnecessárias, correlações espúrias e, consequentemente, economiza seu tempo.
+

@@ -1,6 +1,6 @@
                                  #####DATASETS DE LIVROS OU OUTROS UUSOS, GERALMENTE VIA GIT HUB DEVTOLS PARA R #####
 
-R data package for "Basic Econometrics 5ed" by Damodar N. Gujarati and Dawn C. Porter.
+R data package for "Basic Econometrics 5ed" by Damodar N. Gujarati & Dawn C. Porter.
 
 Inpired by Justin's wooldridge package (https://github.com/JustinMShea/wooldridge) i had tried to do the same thing to other great Econometric book.
 
